@@ -1,0 +1,7 @@
+backend/node_modules
+backend/.env
+backend/.DS_Store
+frontend/ios/Podfile.lock
+.DS_Store
+backend/src/controllers/populateStock.js
+backend/src/controllers/products.json
